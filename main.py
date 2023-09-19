@@ -9,6 +9,6 @@ if (not (link.startswith("http://") or link.startswith("https://"))):
     link = "http://" + link
 page = requests.get(link)
 
-file = open("./output.html", "w")
+file = open("./output.txt", "w")
 file.writelines(page.text)
 file.close()
