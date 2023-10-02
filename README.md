@@ -22,5 +22,5 @@ Software Engineering Project 1 is an example project meant to scrape reddit and 
 4. Change the user agent as you see fit
 5. Run main.py through python using the following syntax:
 ```bash
-python ./main.py {subreddit link, default reddit.com/r/all}
+python ./main.py {subreddit link, default https://www.reddit.com/r/funny/comments/16brnzb/self_aware/}
 ```
