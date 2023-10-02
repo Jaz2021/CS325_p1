@@ -1,1 +1,10 @@
+#Ignore .gitignore
 .gitignore
+
+# Ignore anything in .vscode
+/.vscode/*
+/.conda/*
+
+
+#Ignore secrets
+secrets.json
