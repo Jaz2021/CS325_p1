@@ -5,6 +5,8 @@
 /.vscode/*
 /.conda/*
 
+# Ignore pycache
+__pycache__
 
 #Ignore secrets
 secrets.json
