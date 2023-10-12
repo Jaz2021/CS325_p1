@@ -1,0 +1,2 @@
+Because of the way my program works, it does not get unprocessed data. 
+I would have to use an entirely different library and that would make getting the comment structure much more difficult
